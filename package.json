@@ -1,0 +1,13 @@
+{
+  "name": "sa-corporate-token-generator",
+  "version": "1.0.0",
+  "description": "Weaponised SA Corporate Card Token Generator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}
